@@ -7,6 +7,15 @@
 //Teste larissa
 
 int main() {
+
+
+    char Estado [20];
+    char Código [10];
+    char Cidade [30];
+    int População;
+    float Área;
+    float PIB;
+    int PontosTurísticos;
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
